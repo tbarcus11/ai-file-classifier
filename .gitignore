@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+venv/
+
+# Environment variables
+.env
+ai-file-sorter-api/.env
+
+# Logs
+logs/
+*.log
+
+# AWS Credentials (security!)
+*.pem
