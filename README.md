@@ -1,1 +1,1 @@
-# ai_file_classifier
+# ai-file-classifier
