@@ -12,3 +12,7 @@ logs/
 
 # AWS Credentials (security!)
 *.pem
+
+.DS_Store
+
+lambda_function.zip
