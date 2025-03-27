@@ -25,5 +25,5 @@ services:
     ports:
       - "8080:8080"
     volumes:
-      - ./dags:/opt/airflow/dags  # ✅ This ensures DAGs are mounted correctly
-    command: ["webserver"]  # ✅ Fix: This tells Airflow to start properly
+      - ./dags:/opt/airflow/dags  
+    command: ["webserver"]  
