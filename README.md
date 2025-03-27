@@ -29,8 +29,9 @@ Triggered manually (for now), it:
 
 - Flask (file uploader)
 - Apache Airflow (DAGs running via Docker)
-- AWS S3 (storage)
 - EC2 (host for Docker/Airflow)
+- AWS S3 (storage)
+- AWS Lambda (trigger)
 - Boto3 + python-magic (MIME detection)
 
 ---
