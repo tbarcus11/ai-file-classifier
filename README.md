@@ -1,4 +1,4 @@
-# 📁 SortForm AI File Classifier – MVP Phase 1
+# 📁 SortForm AI File Classifier
 
 This project is the backend for **SortForm**, an AI-powered file classification system. Right now, it handles:
 
