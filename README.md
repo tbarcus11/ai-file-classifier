@@ -35,10 +35,3 @@ Triggered manually (for now), it:
 
 ---
 
-## 🚧 Next Steps
-
-- Connect S3 events to auto-trigger Airflow
-- Add file classification logic
-- Organize files into structured customer folders
-
----
